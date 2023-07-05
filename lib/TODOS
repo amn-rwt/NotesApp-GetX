@@ -1,0 +1,4 @@
+- Search Button transform to TextField.
+- Save notes to firebase.
+- Fetch user specific notes in AllNotesView.
+- 
